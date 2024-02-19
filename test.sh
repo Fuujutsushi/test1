@@ -1,1 +1,1 @@
-echo "Hej världen"
+echo "Hello world"
